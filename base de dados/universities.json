@@ -1,0 +1,8 @@
+{"_id":{"$oid":"622ff9112fb15916c31b7711"},"alpha_two_code":"AR","web_pages":"http://www.atlantida.edu.ar/","name":"Universidad Austral Buenos Aires","country":"Argentina","domains":"austral.edu.ar","__v":0}
+{"_id":{"$oid":"622ffa972fb15916c31b7715"},"alpha_two_code":"BR","web_pages":"http://www.unicid.edu.br/","name":"Universidade Cidade de São Paulo","country":"Brasil","domains":"unicid.edu.br","state_province":"SP","__v":0}
+{"_id":{"$oid":"622ffb802fb15916c31b7718"},"alpha_two_code":"CL","web_pages":"http://www.academia.cl/","name":"Escuela de Arquitectura y Diseño","country":"Chile","domains":"arquitecturaucv.cl","__v":0}
+{"_id":{"$oid":"622ffc292fb15916c31b771b"},"alpha_two_code":"CO","web_pages":"http://www.autonoma.edu.co/","name":"Universidad Bellas Artes","country":"Colombia","domains":"bellasartes.edu.co","__v":0}
+{"_id":{"$oid":"622ffd902fb15916c31b771e"},"alpha_two_code":"PY","web_pages":"http://www.americana.edu.py/","name":"Universidade Americana","country":"Paraguai","domains":"americana.edu.py","__v":0}
+{"_id":{"$oid":"622ffe4b2fb15916c31b7721"},"alpha_two_code":"PE","web_pages":"http://www.champagnat.edu.pe/","name":"Universidad Nacional Agraria La Molina","country":"Peru","domains":"lamolina.edu.pe","__v":0}
+{"_id":{"$oid":"622fffd02fb15916c31b7724"},"alpha_two_code":"SR","web_pages":"http://www.uvs.edu/","name":"Anton de Kom University","country":"Suriname","domains":"uvs.edu","__v":0}
+{"_id":{"$oid":"623000632fb15916c31b7727"},"alpha_two_code":"UY","web_pages":"http://www.claeh.edu.uy/","name":"Universidad ORT Uruguay","country":"Uruguay","domains":"ort.edu.uy","__v":0}
